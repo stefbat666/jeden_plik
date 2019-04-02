@@ -6,10 +6,9 @@
 5a
 zmiana2a
 feature_1
-zmiana1
+zmiana3
 zmiana2b
 6
 7
-8
 9
 0
